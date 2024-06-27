@@ -1,0 +1,33 @@
+.App {
+    font-family: Arial, sans-serif;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .form_grp {
+    margin-bottom: 10px;
+  }
+  
+  .form_grp label {
+    display: block;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
